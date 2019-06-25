@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from profit_or_loss import Profit_or_loss
 from sys import argv
 
